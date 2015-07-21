@@ -1,0 +1,3 @@
+Here are my initial reflections on version control.
+I hope I learn this stuff very quickly so that I can get on to the good part.
+Here is a new line.
